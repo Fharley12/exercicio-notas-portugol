@@ -21,8 +21,8 @@ O programa recebe as notas dos dois períodos, soma os valores e apresenta a not
 ### ✅ Funcionário aprovado
 
 ```text
-Digite a nota do primeiro período: 35.5
-Digite a nota do segundo período: 30.0
+Digite a nota do primeiro período:35.5
+Digite a nota do segundo período:30.0
 
 NOTA FINAL = 65.5
 FUNCIONÁRIO APROVADO
@@ -31,8 +31,8 @@ FUNCIONÁRIO APROVADO
 ### ❌ Funcionário não aprovado
 
 ```text
-Digite a nota do primeiro período: 28.0
-Digite a nota do segundo período: 25.5
+Digite a nota do primeiro período:28.0
+Digite a nota do segundo período:25.5
 
 NOTA FINAL = 53.5
 FUNCIONÁRIO NÃO APROVADO
