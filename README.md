@@ -42,7 +42,8 @@ FUNCIONÁRIO NÃO APROVADO
 
 Abaixo está um exemplo da execução do programa no Visualg.
 
-![Execução do programa](./imagem-execucao.png)
+<img width="1129" height="678" alt="image" src="https://github.com/user-attachments/assets/ecfef2d8-6914-4fb3-8e74-ed6065e410cb" />
+
 
 ## 🛠️ Tecnologias utilizadas
 
