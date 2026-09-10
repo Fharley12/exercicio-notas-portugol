@@ -4,7 +4,7 @@ Projeto desenvolvido para praticar lógica de programação utilizando Portugol.
 
 ## Objetivo
 
-Calcular a nota final a partir de duas notas e verificar se o aluno foi aprovado ou não.
+Calcular a nota final a partir de duas notas e verificar se o funcionário  foi aprovado ou não.
 
 ## Conceitos praticados
 
