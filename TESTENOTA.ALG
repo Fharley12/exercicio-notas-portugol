@@ -11,7 +11,7 @@ Inicio
   escreva ("Digite a nota do segundo perimetro")
   leia (nota2)
   
-  notafinal <- nota1 + nota2
+  notafinal < nota1 + nota2
   escreval ("nota final = " , notafinal:5:1)
 
   se notafinal < 60  entao
